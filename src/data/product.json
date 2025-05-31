@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone X100",
+    "brand": "TechOne",
+    "price": 499.99,
+    "year": 2023
+  },
+  {
+    "id": 2,
+    "name": "Laptop Pro 14",
+    "brand": "CompCore",
+    "price": 899.99,
+    "year": 2024
+  },
+  {
+    "id": 3,
+    "name": "Wireless Earbuds S",
+    "brand": "SoundPeak",
+    "price": 129.99,
+    "year": 2022
+  },
+  {
+    "id": 4,
+    "name": "4K Monitor UltraView",
+    "brand": "DisplayMaster",
+    "price": 299.99,
+    "year": 2023
+  },
+  {
+    "id": 5,
+    "name": "Gaming Mouse GX",
+    "brand": "GamePro",
+    "price": 59.99,
+    "year": 2021
+  },
+  {
+    "id": 6,
+    "name": "Mechanical Keyboard K7",
+    "brand": "TypeMax",
+    "price": 89.99,
+    "year": 2022
+  },
+  {
+    "id": 7,
+    "name": "Smartwatch FitBand",
+    "brand": "WristTech",
+    "price": 149.99,
+    "year": 2023
+  },
+  {
+    "id": 8,
+    "name": "Bluetooth Speaker Boom",
+    "brand": "SoundPeak",
+    "price": 79.99,
+    "year": 2021
+  },
+  {
+    "id": 9,
+    "name": "Tablet PadX",
+    "brand": "TechOne",
+    "price": 399.99,
+    "year": 2024
+  },
+  {
+    "id": 10,
+    "name": "External SSD 1TB",
+    "brand": "DataDrive",
+    "price": 109.99,
+    "year": 2023
+  },
+  {
+    "id": 11,
+    "name": "Webcam HD Pro",
+    "brand": "ViewCam",
+    "price": 69.99,
+    "year": 2022
+  },
+  {
+    "id": 12,
+    "name": "Noise Cancelling Headphones",
+    "brand": "QuietTune",
+    "price": 199.99,
+    "year": 2023
+  },
+  {
+    "id": 13,
+    "name": "Wireless Charger Pad",
+    "brand": "ChargeUp",
+    "price": 39.99,
+    "year": 2021
+  },
+  {
+    "id": 14,
+    "name": "Fitness Tracker V2",
+    "brand": "WristTech",
+    "price": 99.99,
+    "year": 2022
+  },
+  {
+    "id": 15,
+    "name": "Portable Projector MiniBeam",
+    "brand": "DisplayMaster",
+    "price": 249.99,
+    "year": 2024
+  },
+  {
+    "id": 16,
+    "name": "Router AX6000",
+    "brand": "NetSpeed",
+    "price": 179.99,
+    "year": 2023
+  },
+  {
+    "id": 17,
+    "name": "Smart Home Hub",
+    "brand": "HomeSync",
+    "price": 129.99,
+    "year": 2022
+  },
+  {
+    "id": 18,
+    "name": "Drone SkyZoom",
+    "brand": "AeroCam",
+    "price": 599.99,
+    "year": 2024
+  },
+  {
+    "id": 19,
+    "name": "Portable Power Bank 20000mAh",
+    "brand": "ChargeUp",
+    "price": 49.99,
+    "year": 2023
+  },
+  {
+    "id": 20,
+    "name": "E-book Reader Lite",
+    "brand": "ReadMate",
+    "price": 149.99,
+    "year": 2022
+  }
+]
