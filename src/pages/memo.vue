@@ -1,5 +1,7 @@
 <script setup>
 import { ref } from "vue";
+import contenOne from "../components/fragments/contenOne.vue";
+import headingOne from "../components/fragments/title.vue";
 
 const ShowModal = ref(false);
 const memo = ref("");
@@ -32,10 +34,10 @@ function DeleteMemos(id) {
 </script>
 
 <template>
-  <div class="mt-2">
-    <!-- heading -->
+  <!-- heading -->
+  <contenOne>
     <div class="flex justify-between items-center">
-      <h1 class="text-3xl font-bold">Memo Page</h1>
+      <headingOne>Memo Page</headingOne>
       <button
         @click="ShowModal = true"
         class="h-7 w-7 rounded-full bg-teal-600 flex justify-center inset-3 text-white font-extrabold"
@@ -43,8 +45,9 @@ function DeleteMemos(id) {
         &plus;
       </button>
     </div>
-    <!-- ./heading -->
-
+  </contenOne>
+  <!-- ./heading -->
+  <div class="mt-2">
     <!-- Konten -->
     <div class="grid lg:grid-cols-4 md:grid-cols-3 grid-cols-1 gap-2 mt-2">
       <div

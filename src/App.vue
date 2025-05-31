@@ -5,7 +5,7 @@ import { RouterView } from "vue-router";
 
 <template>
   <Navbar />
-  <main class="container mx-auto px-3">
+  <main class="container mx-auto px-2">
     <div>
       <RouterView />
     </div>

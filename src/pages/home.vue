@@ -1,5 +1,10 @@
+<script setup>
+import contenOne from "../components/fragments/contenOne.vue";
+import headingOne from "../components/fragments/title.vue";
+</script>
+
 <template>
-  <div class="mt-2">
-    <h1 class="text-3xl font-bold">Home Page</h1>
-  </div>
+  <contenOne>
+    <headingOne>Home Page</headingOne>
+  </contenOne>
 </template>
